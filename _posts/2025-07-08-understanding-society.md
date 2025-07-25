@@ -9,8 +9,8 @@ pin: true
 math: true
 mermaid: true
 image:
-  path: ../assets/img/personal/profile1.jpg
-  lqip: ../assets/img/personal/profile1.jpg
+  path: /assets/img/personal/profile1.jpg
+  lqip: /assets/img/personal/profile1.jpg
   alt: Understanding Society
 ---
 
