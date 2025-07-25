@@ -1,4 +1,7 @@
 <!-- markdownlint-disable-next-line -->
+
+bundle exec jekyll serve --livereload
+
 <div align="center">
 
   <!-- markdownlint-disable-next-line -->
