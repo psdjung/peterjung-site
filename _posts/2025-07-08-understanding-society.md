@@ -1,16 +1,16 @@
 ---
-title: Understanding Society
+title: Understanding Societies
 description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
-author: cotes
-date: 2025-07-08 11:33:00 +0800
-categories: [Test, Demo]
+author: peter
+date: 2025-07-25 01:00:00 -0800
+categories: [Society, understanding]
 tags: [family]
 pin: true
 math: true
 mermaid: true
 image:
-  path: ../assets/img/personal/peterjung.jpg
-  lqip: ../assets/img/personal/peterjung.jpg
+  path: ../assets/img/personal/profile1.jpg
+  lqip: ../assets/img/personal/profile1.jpg
   alt: Understanding Society
 ---
 
