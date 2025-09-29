@@ -1,5 +1,5 @@
 ---
-title: Understanding Society- Society Is Just People, Sharing Things
+title: Understanding Society- Society Is People Sharing Things in Common 
 description: A first-principles breakdown of society that explains why politics and economics exist in the first place.
 author: peter
 date: 2020-09-29 01:00:00 -0800
@@ -15,8 +15,8 @@ pin: true
 math: true
 mermaid: true
 image:
-  path: /assets/img/posts/2020-09-29-society-is-people-sharing-things.png
-  lqip: /assets/img/posts/2020-09-29-society-is-people-sharing-things.png
+  path: /assets/img/posts/2020-09-29-society-is-people-sharing-things-in-common.png
+  lqip: /assets/img/posts/2020-09-29-society-is-people-sharing-things-in-common.png
   alt: Society Is Just People Sharing Things
 ---
 
