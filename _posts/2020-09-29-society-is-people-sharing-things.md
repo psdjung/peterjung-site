@@ -1,7 +1,7 @@
 ---
-title: Society Is Just People Sharing Things
+title: Understanding Society- Society Is Just People, Sharing Things
 description: A first-principles breakdown of society that explains why politics and economics exist in the first place.
-author: Peter Jung
+author: peter
 date: 2020-09-29 01:00:00 -0800
 categories:
 - Understanding society
