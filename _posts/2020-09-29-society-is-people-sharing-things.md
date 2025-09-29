@@ -15,9 +15,9 @@ pin: true
 math: true
 mermaid: true
 image:
-path: /assets/img/posts/2020-09-29-society-is-people-sharing-things.png
-lqip: /assets/img/posts/2020-09-29-society-is-people-sharing-things.png
-alt: Society Is Just People Sharing Things
+  path: /assets/img/posts/2020-09-29-society-is-people-sharing-things.png
+  lqip: /assets/img/posts/2020-09-29-society-is-people-sharing-things.png
+  alt: Society Is Just People Sharing Things
 ---
 
 # Society Is Group of People With Common Goals
