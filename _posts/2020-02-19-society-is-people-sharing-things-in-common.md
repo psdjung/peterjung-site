@@ -99,5 +99,3 @@ This baseline allows everything else to work. You can disagree about sharing arr
 Most social problems aren't about bad people making bad choices. They're about sharing systems that don't scale well or compete with each other.
 
 A person can be perfectly responsible in their family society while being terrible at neighborhood society responsibilities. Different societies, different sharing requirements, different skill sets needed.
-
-**What society are you trying to understand better right now? Share your thoughts in the comments—let's expand this framework together.**
