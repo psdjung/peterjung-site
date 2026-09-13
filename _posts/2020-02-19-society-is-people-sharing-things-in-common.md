@@ -15,8 +15,8 @@ pin: true
 math: true
 mermaid: true
 image:
-  path: /assets/img/posts/2020-09-29-society-is-people-sharing-things-in-common.png
-  lqip: /assets/img/posts/2020-09-29-society-is-people-sharing-things-in-common.png
+  path: /assets/img/posts/2020-02-19-society-is-people-sharing-things-in-common.png
+  lqip: /assets/img/posts/2020-02-19-society-is-people-sharing-things-in-common.png
   alt: Society is People Sharing Things in Common
 ---
 
